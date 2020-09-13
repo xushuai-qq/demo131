@@ -1,0 +1,8 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /java001
+offcn_ip: 1.1.1.1
+offcn_port: 99999
+
+
